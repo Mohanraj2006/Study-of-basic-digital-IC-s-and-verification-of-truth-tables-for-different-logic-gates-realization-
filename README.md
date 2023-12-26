@@ -59,7 +59,7 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 ###Program:
 
-![ex1](https://github.com/Mohanraj2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152195759/567aee7f-144a-49c4-8f4e-55e3395944ce)
+ ![Screenshot 2023-12-26 232727](https://github.com/Mohanraj2006/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152195759/a2c44e94-aa63-4757-a2af-08fe3141a366)
 
 
 /*
